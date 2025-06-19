@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me, Marina!
 
 I'm a software engineer who started my career as a tester, so imagine the kind of developer I am! :monocle_face:	
-As a software engineer I implement new features and fix bugs using in a critic, complex and distributed Air Traffic Management system.
+As a software engineer I implement new features and fix bugs in a critic, complex and distributed Air Traffic Management system.
 Beyond development, I lead and actively participate to the gromming mettings to discuss architecture, security and high-performance solutions
 for the new feateures. I'm also involved in code reviews and regularly helping the juniors developers in their tasks. 
 Following good development practices such as SOLID, clean code and Design Patterns is part of my daily routine. 
