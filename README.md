@@ -14,11 +14,6 @@ communication skills.
 
 <p></p>
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=marina-msl&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="marina-msl's Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-msl&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="marina-msl's Top Languages" height="200">
-</div>
-
 <table>
   <tr>
     <td>
