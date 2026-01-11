@@ -19,6 +19,17 @@ communication skills.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-msl&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="marina-msl's Top Languages" height="200">
 </div>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marina-msl&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Stats" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-msl&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="200">
+    </td>
+  </tr>
+</table>
+
 <!--
 **marina-msl/marina-msl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
